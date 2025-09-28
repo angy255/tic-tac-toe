@@ -45,17 +45,14 @@ That’s it — no build tools or server needed.
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-```
-![Tic-Tac-Toe Game Screenshot](./images/gamescreenshot.png)
-```
+<img width="1792" height="874" alt="this is a screenshot of the game" src="https://github.com/user-attachments/assets/5926bd63-4fc3-4595-8d66-5275493a55d3" />
 
 ---
 
-```
-![Tic-Tac-Toe Winning Screenshot](./images/winscreenshot.png)
-```
+<img width="1792" height="876" alt="this is a screenshot of the game being won" src="https://github.com/user-attachments/assets/6935f68f-1c24-4a3d-a4c9-2d04b1fce9b3" />
+
 ---
 
 ## 🤝 Contributing

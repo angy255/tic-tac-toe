@@ -48,13 +48,13 @@ That’s it — no build tools or server needed.
 ## 📸 Screenshot
 
 ```
-![Tic-Tac-Toe Game Screenshot](images/gamescreenshot.png)
+![Tic-Tac-Toe Game Screenshot](./images/gamescreenshot.png)
 ```
 
 ---
 
 ```
-![Tic-Tac-Toe Winning Screenshot](images/winscreenshot.png)
+![Tic-Tac-Toe Winning Screenshot](./images/winscreenshot.png)
 ```
 ---
 
